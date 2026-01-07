@@ -14,7 +14,7 @@ Tableau dashboard analyzing Washington state's EV registration data (~130K vehic
 - Interactive filters for make (e.g., KIA), year, type, and drill-downs by county/city.
 
 ## Files
-- Electric_Vehicle_Population_Data(Electric_Vehicle_Population_Dat).csv: Full/source dataset (or sample; original from WA DOL).
+- Electric_Vehicle_Population_Data(Electric_Vehicle_Population_Dat).csv: source dataset.
 - EV Analysis Washington.3.twb: Tableau workbook (open in Tableau Desktop/Public to interact).
 - ev-analysis.pdf: Exported dashboard views.
 - overview-dashboard.png: Screenshot of main overview (trends, makes).
