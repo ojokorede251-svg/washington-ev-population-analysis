@@ -18,7 +18,7 @@ Tableau dashboard analyzing Washington state's EV registration data (~130K vehic
 - EV Analysis Washington.3.twb: Tableau workbook (open in Tableau Desktop/Public to interact).
 - ev-analysis.pdf: Exported dashboard views.
 - overview-dashboard.png: Screenshot of main overview (trends, makes).
-- county.png: Geographic distribution map.
+- map.png: Geographic distribution map.
 - make-breakdown.png: Breakdown by make/type.
 
 ## How to View/Run
